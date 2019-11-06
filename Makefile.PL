@@ -21,8 +21,8 @@ META_MERGE        => {
   resources => {
     repository => {
         type => 'git',
-        url => 'git://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker.git',
-        web => 'https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker',
+        url => 'git://github.com/EvanCarroll/xprop2i3.git',
+        web => 'https://github.com/EvanCarroll/xprop2i3',
     },
   },
 },
